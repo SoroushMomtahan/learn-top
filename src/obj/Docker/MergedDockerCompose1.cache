@@ -1,0 +1,43 @@
+name: dockercompose8435431258303694387
+services:
+  learntop.api:
+    build:
+      context: D:\Projects\Dotnet\learn-top\src
+      dockerfile: bootstrapper/LearnTop.Api/Dockerfile
+    container_name: LearnTop.Api
+    image: learntopapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "5000"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "5001"
+        protocol: tcp
+  learntop.sqlserver:
+    container_name: LearnTop.Sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: 1234@abcd
+    image: mcr.microsoft.com/mssql/server:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: sqlserver-data
+        target: /var/opt/mssql
+        volume: {}
+networks:
+  default:
+    name: dockercompose8435431258303694387_default
+volumes:
+  sqlserver-data:
+    name: dockercompose8435431258303694387_sqlserver-data

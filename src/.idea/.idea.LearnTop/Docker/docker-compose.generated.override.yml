@@ -1,0 +1,21 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  learntop.api:
+    build:
+      context: "D:\\Projects\\Dotnet\\learn-top\\src"
+      dockerfile: "bootstrapper/LearnTop.Api/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/LearnTop.Api.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "learntopapi:dev"
+    ports: []
+    volumes:
+    - "C:\\Users\\Soroush\\.nuget\\packages:/home/app/.nuget/packages"
+    - "D:\\Projects\\Dotnet\\learn-top\\src\\bootstrapper\\LearnTop.Api:/app:rw"
+    - "D:\\Projects\\Dotnet\\learn-top\\src:/src:rw"
+    working_dir: "/app"

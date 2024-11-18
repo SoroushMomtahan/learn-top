@@ -1,0 +1,12 @@
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\bin\Debug\net8.0\LearnTop.Shared.Presentation.deps.json
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\bin\Debug\net8.0\LearnTop.Shared.Presentation.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\bin\Debug\net8.0\LearnTop.Shared.Presentation.pdb
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\obj\Debug\net8.0\LearnTop.Shared.Presentation.csproj.AssemblyReference.cache
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\obj\Debug\net8.0\LearnTop.Shared.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\obj\Debug\net8.0\LearnTop.Shared.Presentation.AssemblyInfoInputs.cache
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\obj\Debug\net8.0\LearnTop.Shared.Presentation.AssemblyInfo.cs
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\obj\Debug\net8.0\LearnTop.Shared.Presentation.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\obj\Debug\net8.0\LearnTop.Shared.Presentation.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\obj\Debug\net8.0\refint\LearnTop.Shared.Presentation.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\obj\Debug\net8.0\LearnTop.Shared.Presentation.pdb
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Presentation\obj\Debug\net8.0\ref\LearnTop.Shared.Presentation.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r05FaHGrXwHUK1V3KyK6b66g+FSqKjssKfbP3p0wuYMR9Lh/SWbNMV2OFzLIUw5sT84ROdlD04iUW1nrQSm1iw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Dotnet\\learn-top\\src\\Shared\\LearnTop.Shared.Presentation\\LearnTop.Shared.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Soroush\\.nuget\\packages\\mapster\\7.4.1-pre01\\mapster.7.4.1-pre01.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\mapster.core\\1.2.2-pre01\\mapster.core.1.2.2-pre01.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\sonaranalyzer.csharp\\9.24.0.89429\\sonaranalyzer.csharp.9.24.0.89429.nupkg.sha512"
+  ],
+  "logs": []
+}

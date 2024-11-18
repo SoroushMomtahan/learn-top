@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="aG_Wa_xaYkt0s7DP9th7">
+    <mxGraphModel dx="3774" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-1" value="Notification" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="275" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-2" value="NotificationSubscriber" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1302" y="275" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-3" value="R" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1434.5" y="265" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="jP7fiH-qiMuv-P7Q30xK-2" target="jP7fiH-qiMuv-P7Q30xK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1537" y="375" as="sourcePoint" />
+            <mxPoint x="-1377" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-5" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="jP7fiH-qiMuv-P7Q30xK-4">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="jP7fiH-qiMuv-P7Q30xK-1" target="jP7fiH-qiMuv-P7Q30xK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1587" y="385" as="sourcePoint" />
+            <mxPoint x="-1427" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-7" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="jP7fiH-qiMuv-P7Q30xK-6">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1147" y="220" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-9" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Course&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="jP7fiH-qiMuv-P7Q30xK-8">
+          <mxGeometry width="55.88235294117648" height="22.60869565217391" as="geometry" />
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-10" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Academy&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="jP7fiH-qiMuv-P7Q30xK-8">
+          <mxGeometry x="68.73529411764707" width="55.88235294117648" height="22.60869565217391" as="geometry" />
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-11" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Store&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="jP7fiH-qiMuv-P7Q30xK-8">
+          <mxGeometry x="134.11764705882354" width="55.88235294117648" height="22.60869565217391" as="geometry" />
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="jP7fiH-qiMuv-P7Q30xK-8" source="jP7fiH-qiMuv-P7Q30xK-9" target="jP7fiH-qiMuv-P7Q30xK-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40.235294117647065" y="22.60869565217391" as="sourcePoint" />
+            <mxPoint x="83.82352941176471" y="62.17391304347825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-13" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;U&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jP7fiH-qiMuv-P7Q30xK-8">
+          <mxGeometry x="85.5" y="63.021739130434774" width="20.69204152249135" height="20.69204152249135" as="geometry" />
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="jP7fiH-qiMuv-P7Q30xK-8" source="jP7fiH-qiMuv-P7Q30xK-13" target="jP7fiH-qiMuv-P7Q30xK-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="111.76470588235296" y="62.17391304347825" as="sourcePoint" />
+            <mxPoint x="139.7058823529412" y="33.91304347826086" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="jP7fiH-qiMuv-P7Q30xK-8" source="jP7fiH-qiMuv-P7Q30xK-13" target="jP7fiH-qiMuv-P7Q30xK-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="93.32352941176471" y="62.17391304347825" as="sourcePoint" />
+            <mxPoint x="100.02941176470588" y="28.260869565217387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Notification&lt;/font&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="jP7fiH-qiMuv-P7Q30xK-8">
+          <mxGeometry x="68.73529411764707" y="107.39130434782608" width="55.88235294117648" height="22.60869565217391" as="geometry" />
+        </mxCell>
+        <mxCell id="jP7fiH-qiMuv-P7Q30xK-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="jP7fiH-qiMuv-P7Q30xK-8" source="jP7fiH-qiMuv-P7Q30xK-16" target="jP7fiH-qiMuv-P7Q30xK-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="22.35294117647059" y="84.78260869565216" as="sourcePoint" />
+            <mxPoint x="111.76470588235296" y="84.78260869565216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

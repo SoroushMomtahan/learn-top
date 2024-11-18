@@ -1,0 +1,17 @@
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\bin\Debug\net8.0\LearnTop.Shared.Infrastructure.deps.json
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\bin\Debug\net8.0\LearnTop.Shared.Infrastructure.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\bin\Debug\net8.0\LearnTop.Shared.Infrastructure.pdb
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\bin\Debug\net8.0\LearnTop.Shared.Application.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\bin\Debug\net8.0\LearnTop.Shared.Domain.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\bin\Debug\net8.0\LearnTop.Shared.Application.pdb
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\bin\Debug\net8.0\LearnTop.Shared.Domain.pdb
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\LearnTop.Shared.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\LearnTop.Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\LearnTop.Shared.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\LearnTop.Shared.Infrastructure.AssemblyInfo.cs
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\LearnTop.Shared.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\LearnTop.3691D05A.Up2Date
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\LearnTop.Shared.Infrastructure.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\refint\LearnTop.Shared.Infrastructure.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\LearnTop.Shared.Infrastructure.pdb
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\ref\LearnTop.Shared.Infrastructure.dll

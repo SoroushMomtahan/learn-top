@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/q1VJ6CKsMqzZyjbN0xL4/JNUwiubG6phNhmsWt95P7JcYZcgEx4YGYQE5sQGwpVUZ/+k13ekLA4TOvinrK8A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Dotnet\\learn-top\\src\\Shared\\LearnTop.Shared.Domain\\LearnTop.Shared.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Soroush\\.nuget\\packages\\sonaranalyzer.csharp\\9.24.0.89429\\sonaranalyzer.csharp.9.24.0.89429.nupkg.sha512"
+  ],
+  "logs": []
+}

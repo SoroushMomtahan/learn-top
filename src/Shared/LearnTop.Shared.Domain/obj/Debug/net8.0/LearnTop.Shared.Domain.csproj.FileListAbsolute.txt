@@ -1,0 +1,11 @@
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\bin\Debug\net8.0\LearnTop.Shared.Domain.deps.json
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\bin\Debug\net8.0\LearnTop.Shared.Domain.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\bin\Debug\net8.0\LearnTop.Shared.Domain.pdb
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\LearnTop.Shared.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\LearnTop.Shared.Domain.AssemblyInfoInputs.cache
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\LearnTop.Shared.Domain.AssemblyInfo.cs
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\LearnTop.Shared.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\LearnTop.Shared.Domain.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\refint\LearnTop.Shared.Domain.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\LearnTop.Shared.Domain.pdb
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\ref\LearnTop.Shared.Domain.dll

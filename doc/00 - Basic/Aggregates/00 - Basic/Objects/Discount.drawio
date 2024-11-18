@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="OQwQ0tCNO2xVySH-vZi2">
+    <mxGraphModel dx="1322" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wnHa-RJ61zt4xk4AHZlB-1" value="Discount" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="380" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnHa-RJ61zt4xk4AHZlB-3" value="Percent" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnHa-RJ61zt4xk4AHZlB-4" value="Description" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="310" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnHa-RJ61zt4xk4AHZlB-5" value="StartAt" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnHa-RJ61zt4xk4AHZlB-6" value="EndAt" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="530" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnHa-RJ61zt4xk4AHZlB-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="wnHa-RJ61zt4xk4AHZlB-3" target="wnHa-RJ61zt4xk4AHZlB-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="440" as="sourcePoint" />
+            <mxPoint x="370" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnHa-RJ61zt4xk4AHZlB-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="wnHa-RJ61zt4xk4AHZlB-4" target="wnHa-RJ61zt4xk4AHZlB-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="291" y="386" as="sourcePoint" />
+            <mxPoint x="400" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnHa-RJ61zt4xk4AHZlB-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="wnHa-RJ61zt4xk4AHZlB-5" target="wnHa-RJ61zt4xk4AHZlB-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="389" as="sourcePoint" />
+            <mxPoint x="424" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnHa-RJ61zt4xk4AHZlB-10" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="wnHa-RJ61zt4xk4AHZlB-6" target="wnHa-RJ61zt4xk4AHZlB-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="471" y="390" as="sourcePoint" />
+            <mxPoint x="449" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wnHa-RJ61zt4xk4AHZlB-13" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="wnHa-RJ61zt4xk4AHZlB-1" target="1Rkvi9s1g0JdXyOhEK2m-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="440" as="sourcePoint" />
+            <mxPoint x="652.140146215914" y="373.06372976725606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Rkvi9s1g0JdXyOhEK2m-1" value="Banner" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

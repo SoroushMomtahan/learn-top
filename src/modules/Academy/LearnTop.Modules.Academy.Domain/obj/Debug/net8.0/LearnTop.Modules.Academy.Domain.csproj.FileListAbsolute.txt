@@ -1,0 +1,15 @@
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\bin\Debug\net8.0\LearnTop.Modules.Academy.Domain.deps.json
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\bin\Debug\net8.0\LearnTop.Modules.Academy.Domain.dll
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\bin\Debug\net8.0\LearnTop.Modules.Academy.Domain.pdb
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.Modules.Academy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.Modules.Academy.Domain.AssemblyInfoInputs.cache
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.Modules.Academy.Domain.AssemblyInfo.cs
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.Modules.Academy.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.Modules.Academy.Domain.dll
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\refint\LearnTop.Modules.Academy.Domain.dll
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.Modules.Academy.Domain.pdb
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\ref\LearnTop.Modules.Academy.Domain.dll
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\bin\Debug\net8.0\LearnTop.Shared.Domain.dll
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\bin\Debug\net8.0\LearnTop.Shared.Domain.pdb
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.Modules.Academy.Domain.csproj.AssemblyReference.cache
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.F63767C4.Up2Date

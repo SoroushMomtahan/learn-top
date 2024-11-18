@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTUelyXn/rOUOn/BRTX5WtZrcF3NkdduqPzTmrCHCJXxjQYhjmg6W6DTlLewCr6nNOWSac4FNI/4z9dsU78rPg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Dotnet\\learn-top\\src\\modules\\Academy\\LearnTop.Modules.Academy.Application\\LearnTop.Modules.Academy.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Soroush\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\serilog\\4.2.0-dev-02328\\serilog.4.2.0-dev-02328.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\sonaranalyzer.csharp\\9.24.0.89429\\sonaranalyzer.csharp.9.24.0.89429.nupkg.sha512"
+  ],
+  "logs": []
+}

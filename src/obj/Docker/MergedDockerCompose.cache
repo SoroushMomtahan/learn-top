@@ -1,0 +1,12 @@
+name: dockercompose8435431258303694387
+services:
+  learntop.api:
+    build:
+      context: D:\Projects\Dotnet\learn-top\src
+      dockerfile: bootstrapper/LearnTop.Api/Dockerfile
+    image: learntopapi
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose8435431258303694387_default
