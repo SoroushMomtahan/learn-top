@@ -35,7 +35,7 @@ public static class AcademyModule
         services.AddScoped<IUnitOfWork>(sp=>sp.GetRequiredService<AcademyDbContext>());
         services.AddDbContext<AcademyDbContext>(sp =>
         {
-            string connectionString = configuration.GetConnectionString("")!;
+            string connectionString = configuration.GetConnectionString("Database")!;
             sp.UseSqlServer(connectionString);
         });
     }

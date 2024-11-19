@@ -17,8 +17,7 @@ public static class CreateTicketEndpoint
         {
             CreateTicketCommand command = request.Adapt<CreateTicketCommand>();
             Result<CreateTicketResult> result = await sender.Send(command);
-            Result<CreateTicketResponse> response = result.Adapt<Result<CreateTicketResponse>>();
-            return response.Match(Results.Ok, ApiResults.Problem);
+            return result.Match(Results.Ok, ApiResults.Problem);
         });
     }
 }

@@ -13,3 +13,4 @@ D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Application\obj\Debug\ne
 D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Application\obj\Debug\net8.0\refint\LearnTop.Shared.Application.dll
 D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Application\obj\Debug\net8.0\LearnTop.Shared.Application.pdb
 D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Application\obj\Debug\net8.0\ref\LearnTop.Shared.Application.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Application\obj\Debug\net8.0\LearnTop.Shared.Application.sourcelink.json

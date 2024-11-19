@@ -13,3 +13,4 @@ D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain
 D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\bin\Debug\net8.0\LearnTop.Shared.Domain.pdb
 D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.Modules.Academy.Domain.csproj.AssemblyReference.cache
 D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.F63767C4.Up2Date
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Domain\obj\Debug\net8.0\LearnTop.Modules.Academy.Domain.sourcelink.json

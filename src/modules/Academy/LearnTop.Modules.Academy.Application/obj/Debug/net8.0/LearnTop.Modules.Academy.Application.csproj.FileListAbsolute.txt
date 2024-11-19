@@ -17,3 +17,4 @@ D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Applic
 D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Application\obj\Debug\net8.0\refint\LearnTop.Modules.Academy.Application.dll
 D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Application\obj\Debug\net8.0\LearnTop.Modules.Academy.Application.pdb
 D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Application\obj\Debug\net8.0\ref\LearnTop.Modules.Academy.Application.dll
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Application\obj\Debug\net8.0\LearnTop.Modules.Academy.Application.sourcelink.json

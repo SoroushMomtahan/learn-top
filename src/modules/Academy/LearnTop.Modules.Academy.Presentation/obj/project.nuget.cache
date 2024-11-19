@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "AEisxnebASosSr5tGX0hScICWUDcmLTKA9pPO2WX1/lzn/c2y7Nq7omavoYjwc32nj9ha/BeSMzYmm7t5H+g1w==",
+  "dgSpecHash": "Ek4s4XJn2uw+9/Ke+9hyso9BeupkKPFXVn5rmKKvuSn1Ppq4+9nAmxWTII2TzRPzy8ajgzI4+y4dodQIEaXwfw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Dotnet\\learn-top\\src\\modules\\Academy\\LearnTop.Modules.Academy.Presentation\\LearnTop.Modules.Academy.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Soroush\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\mapster\\7.4.1-pre01\\mapster.7.4.1-pre01.nupkg.sha512",
-    "C:\\Users\\Soroush\\.nuget\\packages\\mapster.core\\1.2.2-pre01\\mapster.core.1.2.2-pre01.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",

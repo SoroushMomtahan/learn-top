@@ -1,4 +1,5 @@
-﻿using LearnTop.Modules.Academy.Domain.Tickets;
+﻿using System.Reflection;
+using LearnTop.Modules.Academy.Domain.Tickets;
 using LearnTop.Shared.Application.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,4 +9,10 @@ public class AcademyDbContext(DbContextOptions<AcademyDbContext> options) : DbCo
 {
     public DbSet<Ticket> Tickets => Set<Ticket>();
     
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.HasDefaultSchema("Academy");
+        modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+        base.OnModelCreating(modelBuilder);
+    }
 }

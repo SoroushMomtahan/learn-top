@@ -25,3 +25,4 @@ D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Infras
 D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Infrastructure\obj\Debug\net8.0\refint\LearnTop.Modules.Academy.Infrastructure.dll
 D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Infrastructure\obj\Debug\net8.0\LearnTop.Modules.Academy.Infrastructure.pdb
 D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Infrastructure\obj\Debug\net8.0\ref\LearnTop.Modules.Academy.Infrastructure.dll
+D:\Projects\Dotnet\learn-top\src\modules\Academy\LearnTop.Modules.Academy.Infrastructure\obj\Debug\net8.0\LearnTop.Modules.Academy.Infrastructure.sourcelink.json

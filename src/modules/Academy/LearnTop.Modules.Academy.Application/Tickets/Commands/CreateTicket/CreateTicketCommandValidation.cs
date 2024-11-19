@@ -6,7 +6,9 @@ internal sealed class CreateTicketCommandValidation : AbstractValidator<CreateTi
 {
     public CreateTicketCommandValidation()
     {
+        RuleFor(t => t.CreateTicketDto.Content).NotEmpty();
         RuleFor(t => t.CreateTicketDto.Title)
+            .NotEmpty()
             .MinimumLength(3)
             .MaximumLength(20);
     }

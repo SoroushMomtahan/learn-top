@@ -3,7 +3,4 @@
       <ProjectReference Include="..\..\..\Shared\LearnTop.Shared.Application\LearnTop.Shared.Application.csproj" />
       <ProjectReference Include="..\LearnTop.Modules.Academy.Domain\LearnTop.Modules.Academy.Domain.csproj" />
     </ItemGroup>
-    <ItemGroup>
-      <Folder Include="Abstractions\" />
-    </ItemGroup>
 </Project>

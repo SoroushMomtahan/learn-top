@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1SMmagESkka+Lasr2Ys6uEIUyv6cBOSHIqzEpc3m0UebWJ2rMfLWNfqxLg7gMzHChWW1mmJFEfWhixBh0HhCEA==",
+  "dgSpecHash": "b0yvC2p+Vg+CCJ6zAhwMn1lSCGedXZM3/64IelK0SuVZwqFPbtWyOlRv5jjPSWw9c8OCb/LoGmT4wq1gpTFzTQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Dotnet\\learn-top\\src\\Shared\\LearnTop.Shared.Application\\LearnTop.Shared.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Soroush\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

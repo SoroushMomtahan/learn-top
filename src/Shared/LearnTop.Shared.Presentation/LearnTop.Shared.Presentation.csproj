@@ -5,7 +5,7 @@
     </ItemGroup>
     
     <ItemGroup>
-        <PackageReference Include="Mapster" Version="7.4.1-pre01" />
+        <PackageReference Include="Mapster" Version="7.4.0" />
     </ItemGroup>
     
 </Project>

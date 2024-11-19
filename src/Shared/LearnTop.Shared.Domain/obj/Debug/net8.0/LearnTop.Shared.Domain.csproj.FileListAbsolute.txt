@@ -9,3 +9,4 @@ D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\
 D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\refint\LearnTop.Shared.Domain.dll
 D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\LearnTop.Shared.Domain.pdb
 D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\ref\LearnTop.Shared.Domain.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Domain\obj\Debug\net8.0\LearnTop.Shared.Domain.sourcelink.json

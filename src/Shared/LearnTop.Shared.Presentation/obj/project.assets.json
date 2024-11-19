@@ -2,25 +2,25 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Mapster/7.4.1-pre01": {
+      "Mapster/7.4.0": {
         "type": "package",
         "dependencies": {
-          "Mapster.Core": "1.2.2-pre01"
+          "Mapster.Core": "1.2.1"
         },
         "compile": {
-          "lib/net8.0/Mapster.dll": {}
+          "lib/net7.0/Mapster.dll": {}
         },
         "runtime": {
-          "lib/net8.0/Mapster.dll": {}
+          "lib/net7.0/Mapster.dll": {}
         }
       },
-      "Mapster.Core/1.2.2-pre01": {
+      "Mapster.Core/1.2.1": {
         "type": "package",
         "compile": {
-          "lib/net8.0/Mapster.Core.dll": {}
+          "lib/net7.0/Mapster.Core.dll": {}
         },
         "runtime": {
-          "lib/net8.0/Mapster.Core.dll": {}
+          "lib/net7.0/Mapster.Core.dll": {}
         }
       },
       "SonarAnalyzer.CSharp/9.24.0.89429": {
@@ -29,33 +29,31 @@
     }
   },
   "libraries": {
-    "Mapster/7.4.1-pre01": {
-      "sha512": "b7YEDoh4nuODGF7wUjgkxA3bTLLt7TxfPkKiFQTgCrNYHem1VVaJyXgsG9RVeQQ44+hoo69IfqENNKn0ox9ddg==",
+    "Mapster/7.4.0": {
+      "sha512": "RYGoDqvS4WTKIq0HDyPBBVIj6N0mluOCXQ1Vk95JKseMHEsbCXSEGKSlP95oL+s42IXAXbqvHj7p0YaRBUcfqg==",
       "type": "package",
-      "path": "mapster/7.4.1-pre01",
+      "path": "mapster/7.4.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "icon.png",
         "lib/net6.0/Mapster.dll",
         "lib/net7.0/Mapster.dll",
-        "lib/net8.0/Mapster.dll",
-        "mapster.7.4.1-pre01.nupkg.sha512",
+        "mapster.7.4.0.nupkg.sha512",
         "mapster.nuspec"
       ]
     },
-    "Mapster.Core/1.2.2-pre01": {
-      "sha512": "FuNCfTHytW9yeSuGHZ9f8u4cgbzhPL0GqoypA4LD99m0zkafs73IcaMxmbUtYjRThof+Z+jcEQ/suVYTkMpTkA==",
+    "Mapster.Core/1.2.1": {
+      "sha512": "11lokmfliBEMMmjeqxFGNpqGXq6tN96zFqpBmfYeahr4Ybk63oDmeJmOflsATjobYkX248g5Y62oQ2NNnZaeww==",
       "type": "package",
-      "path": "mapster.core/1.2.2-pre01",
+      "path": "mapster.core/1.2.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "icon.png",
         "lib/net6.0/Mapster.Core.dll",
         "lib/net7.0/Mapster.Core.dll",
-        "lib/net8.0/Mapster.Core.dll",
-        "mapster.core.1.2.2-pre01.nupkg.sha512",
+        "mapster.core.1.2.1.nupkg.sha512",
         "mapster.core.nuspec"
       ]
     },
@@ -82,7 +80,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Mapster >= 7.4.1-pre01",
+      "Mapster >= 7.4.0",
       "SonarAnalyzer.CSharp >= 9.24.0.89429"
     ]
   },
@@ -129,7 +127,7 @@
         "dependencies": {
           "Mapster": {
             "target": "Package",
-            "version": "[7.4.1-pre01, )"
+            "version": "[7.4.0, )"
           },
           "SonarAnalyzer.CSharp": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

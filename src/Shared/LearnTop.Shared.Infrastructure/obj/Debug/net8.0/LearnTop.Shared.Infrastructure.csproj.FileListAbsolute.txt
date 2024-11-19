@@ -15,3 +15,4 @@ D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug
 D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\refint\LearnTop.Shared.Infrastructure.dll
 D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\LearnTop.Shared.Infrastructure.pdb
 D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\ref\LearnTop.Shared.Infrastructure.dll
+D:\Projects\Dotnet\learn-top\src\Shared\LearnTop.Shared.Infrastructure\obj\Debug\net8.0\LearnTop.Shared.Infrastructure.sourcelink.json
