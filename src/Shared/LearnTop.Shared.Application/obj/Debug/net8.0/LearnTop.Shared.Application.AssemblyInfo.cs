@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnTop.Shared.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fccab84faf73da20ad77892624569494328a85a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45692faba1ec1094e06b712dd5bd120acb8e6330")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnTop.Shared.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnTop.Shared.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

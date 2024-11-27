@@ -1,8 +1,10 @@
 ﻿using FluentValidation;
 using LearnTop.Modules.Academy.Application;
 using LearnTop.Modules.Academy.Domain.Tickets.Repositories;
-using LearnTop.Modules.Academy.Infrastructure.database;
-using LearnTop.Modules.Academy.Infrastructure.database.Repositories;
+using LearnTop.Modules.Academy.Infrastructure.Database.ReadDb;
+using LearnTop.Modules.Academy.Infrastructure.Database.ReadDb.Repositories;
+using LearnTop.Modules.Academy.Infrastructure.Database.WriteDb;
+using LearnTop.Modules.Academy.Infrastructure.Database.WriteDb.Repositories;
 using LearnTop.Modules.Academy.Presentation.Tickets.Endpoints.CreateTicket;
 using LearnTop.Shared.Application.Data;
 using Microsoft.AspNetCore.Routing;
@@ -35,8 +37,15 @@ public static class AcademyModule
         services.AddScoped<IUnitOfWork>(sp=>sp.GetRequiredService<AcademyDbContext>());
         services.AddDbContext<AcademyDbContext>(sp =>
         {
-            string connectionString = configuration.GetConnectionString("Database")!;
+            string connectionString = configuration.GetConnectionString("WriteDb");
             sp.UseSqlServer(connectionString);
+        });
+
+        services.AddScoped<ITicketViewRepository, TicketViewRepository>();
+        services.AddDbContext<AcademyViewDbContext>(builder =>
+        {
+            string connectionString = configuration.GetConnectionString("ReadDb");
+            builder.UseSqlServer(connectionString);
         });
     }
 }

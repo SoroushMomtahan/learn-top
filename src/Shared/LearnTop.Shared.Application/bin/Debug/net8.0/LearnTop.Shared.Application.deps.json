@@ -102,6 +102,9 @@
       },
       "SonarAnalyzer.CSharp/9.24.0.89429": {},
       "LearnTop.Shared.Domain/1.0.0": {
+        "dependencies": {
+          "MediatR": "12.4.1"
+        },
         "runtime": {
           "LearnTop.Shared.Domain.dll": {
             "assemblyVersion": "1.0.0",

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "E/q1VJ6CKsMqzZyjbN0xL4/JNUwiubG6phNhmsWt95P7JcYZcgEx4YGYQE5sQGwpVUZ/+k13ekLA4TOvinrK8A==",
+  "dgSpecHash": "GsvqbSZpcy4582W1Rf1cac0Vqepd1GqzJ0jF4+3zJYWjXFIAK8Rvvy60f/sjeDMZEphbysfLRO84y4Y27Ds17w==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Dotnet\\learn-top\\src\\Shared\\LearnTop.Shared.Domain\\LearnTop.Shared.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Soroush\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Soroush\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Soroush\\.nuget\\packages\\sonaranalyzer.csharp\\9.24.0.89429\\sonaranalyzer.csharp.9.24.0.89429.nupkg.sha512"
   ],
   "logs": []

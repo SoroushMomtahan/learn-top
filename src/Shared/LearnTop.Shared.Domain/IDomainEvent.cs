@@ -1,6 +1,8 @@
-﻿namespace LearnTop.Shared.Domain;
+﻿using MediatR;
 
-public interface IDomainEvent
+namespace LearnTop.Shared.Domain;
+
+public interface IDomainEvent : INotification
 {
     public Guid Id { get; }
     public DateTime OccuredOn { get; }

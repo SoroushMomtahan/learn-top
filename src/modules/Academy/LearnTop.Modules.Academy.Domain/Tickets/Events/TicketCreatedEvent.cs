@@ -1,8 +1,9 @@
 ﻿using LearnTop.Shared.Domain;
+using MediatR;
 
 namespace LearnTop.Modules.Academy.Domain.Tickets.Events;
 
-public class TicketCreatedEvent(Guid ticketId) : DomainEvent
+public class TicketCreatedEvent(Ticket ticket) : DomainEvent
 {
-    public Guid TicketId { get; set; } = ticketId;
+    public Ticket Ticket { get; set; } = ticket;
 }

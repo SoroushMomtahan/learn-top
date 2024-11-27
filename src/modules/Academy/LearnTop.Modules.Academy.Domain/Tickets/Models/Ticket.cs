@@ -33,8 +33,6 @@ public class Ticket : Aggregate
         Status = status;
         Priority = priority;
         Section = section;
-        
-        AddDomainEvent(new TicketCreatedEvent(Id));
     }
 
     public static Result<Ticket> CreateTicket(
@@ -51,6 +49,7 @@ public class Ticket : Aggregate
         }
         
         var ticket = new Ticket(userId, title, content, status, priority, section);
+        ticket.AddDomainEvent(new TicketCreatedEvent(ticket));
         return ticket;
     }
     
